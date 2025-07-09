@@ -1,0 +1,8 @@
+streamlit
+crewai
+crewai[tools]
+langchain
+langchain_groq
+langchain_community
+duckduckgo-search  # Only if needed; otherwise, rely on built-in sqlite3
+python-dotenv      # (Optional, for environment variables)
